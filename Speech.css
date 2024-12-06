@@ -12,6 +12,8 @@ div {
     background:WHITE;
     padding:40px;
     text-align:justify;
+    border-radius: 25px;
+    boder: none;
 } 
 button {
     border: none;
