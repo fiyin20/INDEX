@@ -4,7 +4,7 @@ body {
     box-sizing:border-box;
     font-weight:200;
     font-family:Arial, Helvetica, sans-serif;
-   
+
 }
 div {
     max-width:700px;
@@ -12,6 +12,8 @@ div {
     background:WHITE;
     padding:40px;
     text-align:justify;
+    border-radius: 25px;
+    boder: none;
 } 
 button {
     border: none;
@@ -20,5 +22,4 @@ button {
     font-family: bold;
     background: #ffc606;
     font-size: 25px;
-
 }
